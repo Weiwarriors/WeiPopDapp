@@ -208,7 +208,7 @@ function App() {
         flex={1}
         ai={"center"}      //change placement of the logo (right = top left of page)
         style={{ padding: 24, backgroundColor: "var(--primary)" }}
-        image={CONFIG.SHOW_BACKGROUND ? "/config/images/bg.png" : null}
+        image={CONFIG.SHOW_BACKGROUND ? "/config/images/bg.PNG" : null}
       >
     
         <s.SpacerSmall />
